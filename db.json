@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "7a45",
+      "title": "flowers",
+      "status": false
+    },
+    {
+      "id": "b42d",
+      "title": "filo",
+      "status": false
+    },
+    {
+      "id": "a76e",
+      "title": "sez",
+      "status": false
+    },
+    {
+      "id": "de0d",
+      "title": "sed",
+      "status": false
+    },
+    {
+      "id": "ff8e",
+      "title": "ferilo",
+      "status": false
+    },
+    {
+      "id": "9e35",
+      "title": "jak",
+      "status": false
+    }
+  ]
+}
